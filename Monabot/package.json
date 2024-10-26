@@ -1,0 +1,14 @@
+{
+  "name": "mona_bot",
+  "version": "1.0.0",
+  "description": "Bot for Telegram And WhatsApp",
+  "main": "main.js",
+  "scripts": {
+    "bot": "nodemon main.js"
+  },
+  "author": "yudha develops",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
